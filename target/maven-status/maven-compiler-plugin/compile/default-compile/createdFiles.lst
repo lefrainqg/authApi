@@ -1,0 +1,7 @@
+auth\services\ApplicationConfig.class
+auth\services\AbstractFacade.class
+auth\config\CrossOriginFilter.class
+auth\logic\AutenticacionLN.class
+auth\entity\Sesion_.class
+auth\services\SesionFacadeREST.class
+auth\entity\Sesion.class

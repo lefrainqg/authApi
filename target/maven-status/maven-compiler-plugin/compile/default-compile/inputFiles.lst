@@ -1,0 +1,6 @@
+D:\Documents\NetBeansProjects\authapi\src\main\java\auth\entity\Sesion.java
+D:\Documents\NetBeansProjects\authapi\src\main\java\auth\services\SesionFacadeREST.java
+D:\Documents\NetBeansProjects\authapi\src\main\java\auth\config\CrossOriginFilter.java
+D:\Documents\NetBeansProjects\authapi\src\main\java\auth\logic\AutenticacionLN.java
+D:\Documents\NetBeansProjects\authapi\src\main\java\auth\services\ApplicationConfig.java
+D:\Documents\NetBeansProjects\authapi\src\main\java\auth\services\AbstractFacade.java
